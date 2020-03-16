@@ -1,4 +1,4 @@
-# Resources for parents adjusting to homeschooling
+# Resources for parents adjusting to home learning
 
 With the COVID-19 business going on and many people finding themselves at home with their kids all day, I wanted to share a list of resources to help keep kids engaged and learning. This is mainly for Kindergarten age kids since that's what mine are. I haven't used most of these and don't endorse any, but listing the ones I've found in case they are helpful for others.
 
