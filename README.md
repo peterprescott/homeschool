@@ -21,13 +21,12 @@ Name | Price | Details
 [PBS Kids](https://pbskids.org/) | Free | Games, videos
 [KidsToPros](https://www.kidztopros.com/online-programs) | Paid (free trial) | Online scheduled classes
 [Tinybop](https://schools.tinybop.com/) | Paid (free trial) | Online STEM lessons
-[Roslyn Ross's blog](https://roslynross.blogspot.com/2018/06/anderss-education-update-kindergarten.html?m=1) | Free | Example day for non-coercive homeshoooling
+[Roslyn Ross](https://roslynross.blogspot.com/2018/06/anderss-education-update-kindergarten.html?m=1) | Free | Example day for "non-coercive homeshoooling"
 [Virtual museum tours](https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours) | Free | Museum tours by video
-[Inspired Treehouse](https://theinspiredtreehouse.com/activities-index/) | Free | Actvities for kids
+[Inspired Treehouse](https://theinspiredtreehouse.com/activities-index/) | Free | Activities for kids
 [Outschool](https://outschool.com/) | Paid (free trial) | Live online courses
 [ICTGames](http://ictgames.co.uk/) | Free | Free teacher-created games
 [Help Teaching](https://www.helpteaching.com/) | Free | Printable worksheets, tests, lessons, etc.
-
 
 ## Contributing
 
