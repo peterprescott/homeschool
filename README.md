@@ -16,7 +16,7 @@ Name | Price | Details
 [Scholastic LearnAtHome](https://scholastic.com/learnathome) | Free | 20 days of reading activities
 [Code.org](https://code.org/) | Paid (free trial) | Learn to code starting from basics
 [Mystery Science K-5](https://mysteryscience.com/school-closure-planning) | Free | Science videos/activities
-[Epic](https://www.getepic.com/) | Paid | Many books
+[Epic](https://www.getepic.com/) | Paid (free trial) | Many books
 [DIY.org](https://diy.org/) | Paid (free trial) | DIY projects for kids
 [How2Draw Animals](https://www.how2drawanimals.com/) | Free | Instructions for drawing animals
 [Make Me Genius](https://www.makemegenius.com/) | Free | Science videos
