@@ -1,6 +1,6 @@
 # Resources for parents adjusting to homeschooling
 
-With the COVID-19 business going on and many people finding themselves at home with their kids all day, I wanted to share a list of resources to help keep kids engaged and learning. This is mainly for Kindergarten age kids since that's what mine are. I haven't used most of these and don't endorse any, but listing them in case they are helpful for others.
+With the COVID-19 business going on and many people finding themselves at home with their kids all day, I wanted to share a list of resources to help keep kids engaged and learning. This is mainly for Kindergarten age kids since that's what mine are. I haven't used most of these and don't endorse any, but listing the ones I've found in case they are helpful for others.
 
 This is also a great resource: https://schoolclosures.org/
 
@@ -10,6 +10,9 @@ Or you could experiment with [unschooling](https://en.wikipedia.org/wiki/Unschoo
 
 Name | Price | Details
 ---- | ---- | ----
+[Story Time from Space](https://storytimefromspace.com/) | Free | Astronauts reading stories from the ISS
+[Storyline Online](https://www.storylineonline.net/library/) | Free | Stories read aloud by actors
+[Art for Kids Hub](https://www.artforkidshub.com/) | Free | Art lesson videos
 [Scholastic LearnAtHome](https://scholastic.com/learnathome) | Free | 20 days of reading activities
 [Code.org](https://code.org/) | Paid (free trial) | Learn to code starting from basics
 [Mystery Science K-5](https://mysteryscience.com/school-closure-planning) | Free | Science videos/activities
