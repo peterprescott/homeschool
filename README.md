@@ -15,6 +15,7 @@ Name | Price | Details
 [Art for Kids Hub](https://www.artforkidshub.com/) | Free | Art lesson videos
 [Scholastic LearnAtHome](https://scholastic.com/learnathome) | Free | 20 days of reading activities
 [Code.org](https://code.org/) | Paid (free trial) | Learn to code starting from basics
+[Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) | Free | Learning to code
 [Mystery Science K-5](https://mysteryscience.com/school-closure-planning) | Free | Science videos/activities
 [Epic](https://www.getepic.com/) | Paid (free trial) | Many books
 [DIY.org](https://diy.org/) | Paid (free trial) | DIY projects for kids
